@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/statewise_covid19-tracker/static/css/main.31d6cfe0.css",
+    "main.js": "/statewise_covid19-tracker/static/js/main.9bc35b09.js",
+    "index.html": "/statewise_covid19-tracker/index.html",
+    "main.9bc35b09.js.map": "/statewise_covid19-tracker/static/js/main.9bc35b09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.9bc35b09.js"
+  ]
+}
